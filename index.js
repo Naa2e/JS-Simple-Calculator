@@ -12,4 +12,6 @@ function divideBy()
 document.getElementById("result").innerHTML = num1 / num2;
 }
 
-var
+var result = document.createElement("result");
+span.appendChild(document.createTextNoce(produceMessage()));
+document.body.appendChild(span);
